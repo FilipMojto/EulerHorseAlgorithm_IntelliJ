@@ -3,6 +3,6 @@ module com.evening_programmer.eulerhorsealgorithm {
     requires javafx.fxml;
 
 
-    opens main.eulerhorsealgorithm to javafx.fxml;
-    exports main.eulerhorsealgorithm;
+    opens main to javafx.fxml;
+    exports main;
 }

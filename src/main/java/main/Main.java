@@ -1,4 +1,4 @@
-package main.eulerhorsealgorithm;
+package main;
 
 import javafx.application.Application;
 import javafx.geometry.HPos;

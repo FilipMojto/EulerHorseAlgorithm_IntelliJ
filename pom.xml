@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.evening_programmer.eulerhorsealgorithm/main.eulerhorsealgorithm.Main
+                                com.evening_programmer.eulerhorsealgorithm/main.Main
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
